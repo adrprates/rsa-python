@@ -1,4 +1,3 @@
-````markdown
 # 🔒 RSA Criptografia do Zero
 
 Este repositório contém uma implementação **do zero** do algoritmo **RSA** (Rivest-Shamir-Adleman) em Python. O objetivo é demonstrar e entender o funcionamento interno deste sistema criptográfico de chave pública, sem depender de bibliotecas criptográficas externas.
@@ -83,4 +82,3 @@ Menu:
 
 * [RSA na Wikipedia](https://pt.wikipedia.org/wiki/RSA)
 * [Explicação matemática e detalhes de implementação do RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
-```
