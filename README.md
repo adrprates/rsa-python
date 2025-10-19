@@ -50,7 +50,7 @@ Todas as funções essenciais para o RSA foram implementadas manualmente (from s
 
 Ao iniciar, o programa gera um novo par de chaves RSA de **512 bits** e abre o menu principal:
 
-````
+
 
 \==========================
 Menu:
@@ -59,7 +59,7 @@ Menu:
 3 - Validar assinatura
 4 - Sair
 
-```
+
 
 | Opção | Descrição da Interação |
 | :--- | :--- |
@@ -82,3 +82,4 @@ Menu:
 
 * [RSA na Wikipedia](https://pt.wikipedia.org/wiki/RSA)
 * [Explicação matemática e detalhes de implementação do RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+
