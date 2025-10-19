@@ -52,12 +52,11 @@ Ao iniciar, o programa gera um novo par de chaves RSA de **512 bits** e abre o m
 
 
 
-\==========================
-Menu:
-1 - Cifrar
-2 - Decifrar (cole os blocos)
-3 - Validar assinatura
-4 - Sair
+Menu: <br>
+1 - Cifrar <br>
+2 - Decifrar (cole os blocos) <br>
+3 - Validar assinatura <br>
+4 - Sair <br>
 
 
 
@@ -82,4 +81,5 @@ Menu:
 
 * [RSA na Wikipedia](https://pt.wikipedia.org/wiki/RSA)
 * [Explicação matemática e detalhes de implementação do RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+
 
